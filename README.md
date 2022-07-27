@@ -13,7 +13,9 @@ When opening the site, users will be greeted with an image of our earth at night
 ![Main](https://user-images.githubusercontent.com/60283799/181372217-85582789-e79e-47b4-b76c-1087c4a806d6.PNG)
 
 ### Filters 
-Once the user is familiar with the table and the different criteria that can be used to search, the can head over to the filters on the left side of the page. Here, users can input anywhere from one to 5 different filters. Once the information is inputted by the user, the background code (`app.JS`) will run the table building function with the provided filters and return a table that displays the data the user is looking for. For example, if someone was looking UFO sightings in San Diego, CA, that happened on 1/5/2010 and were triangle shaped, this would be the result: 
+When the user is familiar with the table and the different criteria that can be used to search, the can head over to the filters on the left side of the page. Here, users can input anywhere from one to five different filters. 
+
+Once the information is inputted by the user, the background code (`app.JS`) will run the table building function with the provided filters and return a table that displays the data the user is looking for. For example, if someone was looking UFO sightings in San Diego, CA, that happened on 1/1/2010 and were triangle shaped, this would be the result: 
 
 ![filtered](https://user-images.githubusercontent.com/60283799/181375553-2467d278-6741-4c9d-8746-f784e45174fc.PNG)
 
