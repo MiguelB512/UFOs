@@ -14,7 +14,7 @@ The purpose of this website was to take a `JavaScript` dataset and use it to cre
 ## Using The Site
 
 ### Landing Page
-When opening the site, users will be greeted with an image of our earth at night with a short paragraph and the beginning of a large table. This table holds all of the data that has been taken from the Data.JS, ran through functions and displayed here on our HTML site. Here is the main landing page: 
+When opening the site, users will be greeted with an image of our earth at night with a short paragraph and the beginning of a large table. At the top left, the UFO Sightings text can be clicked to reinitialize the page. The table holds all of the data that has been taken from the Data.JS, ran through functions and displayed here on our HTML site. Here is the main landing page: 
 
 ![Main](https://user-images.githubusercontent.com/60283799/181372217-85582789-e79e-47b4-b76c-1087c4a806d6.PNG)
 
