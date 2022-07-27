@@ -1,0 +1,16 @@
+/* Make all text in the body white */
+body {
+
+    color: #f7f7f7;
+  }
+
+/* Add image to background of JumboTron, fill with size, and align text in center */
+.jumbotron {
+  background-image: url("images/nasa.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+}
+
+.button {
+    text-align: center;
+  }
